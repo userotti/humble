@@ -27,11 +27,11 @@ header {
 	clear: both;
 	border-top: 0px solid #EDEDED;
 	background: #f6f6f6;
-	background: -moz-linear-gradient(top,  #f6f6f6 0%, #ff0000 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f6f6f6), color-stop(100%,#ff0000));
-	background: -webkit-linear-gradient(top,  #f6f6f6 0%,#ff0000 100%);
-	background: -o-linear-gradient(top,  #f6f6f6 0%,#ff0000 100%);
-	background: -ms-linear-gradient(top,  #f6f6f6 0%,#ff0000 100%);
+	background: -moz-linear-gradient(top,  #f6f6f6 0%, #ffffff 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f6f6f6), color-stop(100%,#ffffff));
+	background: -webkit-linear-gradient(top,  #f6f6f6 0%,#ffffff 100%);
+	background: -o-linear-gradient(top,  #f6f6f6 0%,#ffffff 100%);
+	background: -ms-linear-gradient(top,  #f6f6f6 0%,#ffffff 100%);
 	background: linear-gradient(to bottom,  #f6f6f6 0%,#ffffff 100%);
 	min-height: 100px;
 	padding: 8px 0;
@@ -559,8 +559,7 @@ header.single-menu div.search + nav {
 
 header.single-menu nav ul.nav-main li a,
 header.single-menu nav ul.nav-main li.dropdown:hover > a {
-	padding-bottom: 20px;
-	padding-top: 62px;
+	
 }
 
 body.boxed header.single-menu nav ul.nav-main > li > a,
@@ -635,7 +634,7 @@ header.colored nav ul.nav-main li a {
 }
 
 header.colored nav ul.nav-main li.dropdown:hover > a {
-	padding-bottom: 24px;
+	padding-bottom: 44px;
 }
 
 body.sticky-menu-active header.colored ul.nav-main > li > a,
