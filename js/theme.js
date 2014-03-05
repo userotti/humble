@@ -4,6 +4,7 @@ Written by: 	Crivos - (http://www.crivos.com)
 Version: 		2.0
 */
 
+
 (function() {
 
 	"use strict";
@@ -370,7 +371,9 @@ Version: 		2.0
 
 		wordRotate: function() {
 
-			$(".word-rotate").each(function() {
+			
+
+			$("#retail.word-rotate").each(function() {
 
 				var $this = $(this),
 					itemsWrapper = $(this).find(".word-rotate-items"),
@@ -380,14 +383,27 @@ Version: 		2.0
 					maxWidth = 0,
 					itemHeight = 0,
 					currentItem = 1,
-					currentTop = 0;
+					currentTop = 0,
+					delay = 500;
+
+				
+				var delayTimes = [];
+					delayTimes.push(2500);
+					delayTimes.push(300);
+					delayTimes.push(300);
+					delayTimes.push(600);
+
 
 				items.each(function() {
 					if($(this).width() > maxWidth) {
 						maxWidth = $(this).width();
+						
 					}
 				});
 
+				maxWidth += 15;
+
+				
 				itemHeight = firstItem.height();
 
 				itemsWrapper.append(firstItemClone);
@@ -397,30 +413,46 @@ Version: 		2.0
 					.height(itemHeight)
 					.addClass("active");
 
-				setInterval(function() {
+				
+				
+				
 
-					currentTop = (currentItem * itemHeight);
 
-					itemsWrapper.animate({
-						top: -(currentTop) + "px"
-					}, 300, "easeOutQuad", function() {
+				var cycleStart = function(currentDelay){
+					setTimeout(function() {
 
-						currentItem++;
+						currentTop = (currentItem * itemHeight);
+						
+						itemsWrapper.animate({
 
-						if(currentItem > items.length) {
+							top: -(currentTop) + "px"
+						}, 300, "easeOutQuad", function() {							
 
-							itemsWrapper.css("top", 0);
-							currentItem = 1;
+							currentItem++;
+							
+							
+							if(currentItem > items.length) {
 
-						}
+								itemsWrapper.css("top", 0);
+								currentItem = 1;
+						
+							}
+							
+							cycleStart(delayTimes[currentItem-1]);
+					
+						});
+						
+						
 
-					});
+					}, currentDelay);
+				};
 
-				}, 2000);
+				cycleStart(delayTimes[currentItem-1]);
 
 			});
 
 		},
+		
 
 		newsletter: function() {
 

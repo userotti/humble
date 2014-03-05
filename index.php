@@ -24,12 +24,12 @@
 
 					<?php include 'textpiece.php' ?>
 
-					<?php include 'circles.php' ?>	
+					<?php /*include 'circles.php'*/ ?>	
 					
 
-					<?php include 'table-section.php' ?>	
+					<?php /*include 'table-section.php'*/ ?>	
 
-					<?php include 'map-section.php' ?>	
+					<?php /*include 'map-section.php'*/ ?>	
 					
 
 					

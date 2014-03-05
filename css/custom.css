@@ -1,1 +1,45 @@
 /* Add here all your CSS customizations */
+
+#mynavButton:hover {
+	color: #ffffff;
+	background-color: #858988;  
+
+}
+
+#myhumbleButton {
+	border-color: #82bf42;
+	color: #ffffff;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #375e0e;
+	background-image: -moz-linear-gradient(top, #82bf42, #375e0e);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#82bf42), to(#375e0e));
+	background-image: -webkit-linear-gradient(top, #82bf42, #375e0e);
+	background-image: -o-linear-gradient(top, #82bf42, #375e0e);
+	background-image: linear-gradient(to bottom, #82bf42, #375e0e);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff82bf42', endColorstr='#ff375e0e', GradientType=0);
+	border-color: #375e0e #375e0e #333c3b;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
+
+/* the css for the underslide.php text */
+
+#custom1 {
+
+	padding-top: 25px; 
+	font-size: 25px;"
+}
+
+
+#humbleGreenBack {
+
+	background-color: #82bf42;
+
+}
+
+#humbleLightGreenBackWhiteTxt {
+
+	color: #ffffff;
+	background-color: #9ad260;
+
+}

@@ -19,28 +19,28 @@
 									<div class="input-group">
 										<input class="form-control" placeholder="Email Address" name="email" id="email" type="text">
 										<span class="input-group-btn">
-											<button class="btn btn-default" type="submit">Go!</button>
+											<button class="btn btn-default" type="submit" id="humbleLightGreenBackWhiteTxt">Go!</button>
 										</span>
 									</div>
 								</form>
 							</div>
 						</div>
-						<div class="col-md-3">
-							<h4>Latest Tweet</h4>
+						<div class="col-md-3"> 
+							<!-- <h4>Latest Tweet</h4>
 							<div id="tweet" class="twitter" data-account-id="crivosthemes">
 								<p>Please wait...</p>
-							</div>
+							</div> -->
 						</div>
-						<div class="col-md-4">
+						<div class="col-md-6">
 							<div class="contact-details">
 								<h4>Contact Us</h4>
 								<ul class="contact">
-									<li><p><i class="icon icon-map-marker"></i> <strong>Address:</strong> 1234 Street Name, City Name, United States</p></li>
-									<li><p><i class="icon icon-phone"></i> <strong>Phone:</strong> (123) 456-7890</p></li>
-									<li><p><i class="icon icon-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">mail@example.com</a></p></li>
+									<li><p><i class="icon icon-map-marker"></i> <strong>Address:</strong> 37 Taunton Road, Pietermaritzburg, South Africa</p></li>
+									<li><p><i class="icon icon-phone"></i> <strong>Phone:</strong> (033) 345-2118</p></li>
+									<li><p><i class="icon icon-envelope"></i> <strong>Email:</strong> <a href="mailto:office@humble.co.za">office@humble.co.za</a></p></li>
 								</ul>
 							</div>
-						</div>
+						</div><!--
 						<div class="col-md-2">
 							<h4>Follow Us</h4>
 							<div class="social-icons">
@@ -50,7 +50,7 @@
 									<li class="linkedin"><a href="http://www.linkedin.com/" target="_blank" data-placement="bottom" rel="tooltip" title="Linkedin">Linkedin</a></li>
 								</ul>
 							</div>
-						</div>
+						</div>-->
 					</div>
 				</div>
 				<div class="footer-copyright">
@@ -58,20 +58,20 @@
 						<div class="row">
 							<div class="col-md-1">
 								<a href="index.html" class="logo">
-									<img alt="Porto Website Template" class="img-responsive" src="img/logo-footer.png">
+									<img alt="humble software" class="img-responsive" src="img/humble.png">
 								</a>
 							</div>
 							<div class="col-md-7">
-								<p>© Copyright 2013 by Crivos. All Rights Reserved.</p>
+								<p>humble software. we love retail.</p>
 							</div>
 							<div class="col-md-4">
-								<nav id="sub-menu">
+								<!--<nav id="sub-menu">
 									<ul>
 										<li><a href="page-faq.html">FAQ's</a></li>
 										<li><a href="sitemap.html">Sitemap</a></li>
 										<li><a href="contact-us.html">Contact</a></li>
 									</ul>
-								</nav>
+								</nav>-->
 							</div>
 						</div>
 					</div>

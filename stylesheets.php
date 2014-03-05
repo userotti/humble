@@ -1,6 +1,6 @@
 		<!-- Basic -->
 		<meta charset="utf-8">
-		<title>humble</title>
+		<title>humble software</title>
 		<link rel="icon" type="image/ico"  href="img/favi.ico">
 		<meta name="keywords" content="pos retail redworld till humble"/>
 		<meta name="description" content="humble - we love retail">
