@@ -193,6 +193,8 @@ Version: 		2.0
 				logoPaddingTop = 28,
 				logoSmallHeight = 40;
 
+			
+
 			logo
 				.css("height", logoSmallHeight);
 

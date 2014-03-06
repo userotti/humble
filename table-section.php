@@ -4,7 +4,7 @@
 
 						<div class="row">
 							<div class="col-md-8">
-								<h2>Our <strong>Features</strong></h2>
+								<h2>Product <strong>Features</strong></h2>
 								<div class="row">
 									<div class="col-md-6">
 										<div class="feature-box">
@@ -13,7 +13,7 @@
 											</div>
 											<div class="feature-box-info">
 												<h4 class="shorter">Customer Support</h4>
-												<p class="tall">Lorem ipsum dolor sit amet, consectetur adip.</p>
+												<p class="tall">A team of capable technicians are on standby awaiting your call.</p>
 											</div>
 										</div>
 										<div class="feature-box">
@@ -21,8 +21,8 @@
 												<i class="icon icon-file"></i>
 											</div>
 											<div class="feature-box-info">
-												<h4 class="shorter">HTML5 / CSS3 / JS</h4>
-												<p class="tall">Lorem ipsum dolor sit amet, adip.</p>
+												<h4 class="shorter">Cloud Based Data</h4>
+												<p class="tall">All your company information is being saved in the cloud as well as on your device.</p>
 											</div>
 										</div>
 										<div class="feature-box">
@@ -135,7 +135,7 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div><!--
 
 						<hr class="tall" />
 
@@ -189,6 +189,6 @@
 									</li>
 								</ul>
 							</div>
-						</div>
+						</div>-->
 
 					</div>

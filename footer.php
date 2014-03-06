@@ -39,18 +39,28 @@
 									<li><p><i class="icon icon-phone"></i> <strong>Phone:</strong> (033) 345-2118</p></li>
 									<li><p><i class="icon icon-envelope"></i> <strong>Email:</strong> <a href="mailto:office@humble.co.za">office@humble.co.za</a></p></li>
 								</ul>
+							
+								<h4>Follow Us</h4>
+								<div class="social-icons">
+								<ul class="social-icons">
+									<li class="facebook"><a href="https://www.facebook.com/humbleSoftware" target="_blank" title="Facebook">Facebook</a></li>
+								<li class="twitter"><a href="https://twitter.com/humble_Software" target="_blank" title="Twitter">Twitter</a></li>
+								<li class="linkedin"><a href="http://www.linkedin.com/company/humble-it" target="_blank" title="Linkedin">Linkedin</a></li>
+								</ul>	
+
+
 							</div>
 						</div><!--
 						<div class="col-md-2">
 							<h4>Follow Us</h4>
 							<div class="social-icons">
 								<ul class="social-icons">
-									<li class="facebook"><a href="http://www.facebook.com/" target="_blank" data-placement="bottom" rel="tooltip" title="Facebook">Facebook</a></li>
-									<li class="twitter"><a href="http://www.twitter.com/" target="_blank" data-placement="bottom" rel="tooltip" title="Twitter">Twitter</a></li>
-									<li class="linkedin"><a href="http://www.linkedin.com/" target="_blank" data-placement="bottom" rel="tooltip" title="Linkedin">Linkedin</a></li>
+									<li class="facebook"><a href="https://www.facebook.com/humbleSoftware" target="_blank" title="Facebook">Facebook</a></li>
+								<li class="twitter"><a href="https://twitter.com/humble_Software" target="_blank" title="Twitter">Twitter</a></li>
+								<li class="linkedin"><a href="http://www.linkedin.com/company/humble-it" target="_blank" title="Linkedin">Linkedin</a></li>
 								</ul>
 							</div>
-						</div>-->
+						</div> -->
 					</div>
 				</div>
 				<div class="footer-copyright">

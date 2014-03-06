@@ -1,10 +1,18 @@
 			<header>
 				<div class="container">
-					<h1 class="logo">
+					<h1 class="logo" style="width: 230px">
+
 						<a href="index.html">
 							<img alt="Humble" src="img/humble_smaller.png">
+							
 						</a>
+						
 					</h1>
+
+				
+
+						
+
 					<div class="search">
 						<form id="searchForm" action="page-search-results.html" method="get">
 							<div class="input-group">
@@ -19,12 +27,23 @@
 					<button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse">
 						<i class="icon icon-bars"></i>
 					</button>
+					
 				</div>
 				<div class="navbar-collapse nav-main-collapse collapse">
 					<div class="container">
-						
+						<div class="social-icons">
+							<ul class="social-icons">
+								<li class="facebook"><a href="https://www.facebook.com/humbleSoftware" target="_blank" title="Facebook">Facebook</a></li>
+								<li class="twitter"><a href="https://twitter.com/humble_Software" target="_blank" title="Twitter">Twitter</a></li>
+								<li class="linkedin"><a href="http://www.linkedin.com/company/humble-it" target="_blank" title="Linkedin">Linkedin</a></li>
+							</ul>
+						</div>
+
 						<nav class="nav-main mega-menu">
 							<ul class="nav nav-pills nav-main" id="mainMenu">
+
+
+
 								<li class="active">
 									<a class="" href="#">
 										Home
@@ -34,16 +53,19 @@
 								</li>
 								<li>
 									<a id="mynavButton" href="#">
-										About Us
+										Redworld	
 										
 									</a>
 									
 								</li>
 								<li>
 									<a id="mynavButton" href="#">
-										Contact
+										About
 										
 									</a>
+									
+								</li>
+							
 								
 								<li>
 									<a id="mynavButton" href="#">
@@ -62,6 +84,10 @@
 								
 							</ul>
 						</nav>
+
+
+
+					</div>
 					</div>
 				</div>
 			</header>

@@ -27,7 +27,7 @@
 					<?php /*include 'circles.php'*/ ?>	
 					
 
-					<?php /*include 'table-section.php'*/ ?>	
+					<?php include 'table-section.php' ?>	
 
 					<?php /*include 'map-section.php'*/ ?>	
 					

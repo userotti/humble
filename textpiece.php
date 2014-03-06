@@ -18,7 +18,12 @@
 									retail.
 								</h2>
 								<p class="featured lead">
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum, nulla vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo. vamus suscipit molestie vestibulum.
+									Our founders, Rodney and William, have spent 
+most of their careers in the Cellular industry 
+and have taken what they have learnt and used 
+their experience gained over the years to create 
+products that really improve the cellular retail 
+experience.
 								</p>
 							</div>
 						</div>

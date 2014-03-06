@@ -30,28 +30,28 @@
 										 data-x="-20"
 										 data-y="325"
 										 data-speed="300"
-										 data-start="1500"
+										 data-start="500"
 										 data-easing="easeOutExpo" style="font-size: 47px">IS YOUR TILL HUMBLE?</div>
 
 									<div class="tp-caption bottom-label sft stb"
 										 data-x="-10"
 										 data-y="380"
 										 data-speed="500"
-										 data-start="2000"
-										 data-easing="easeOutExpo">Check out our options and features.</div>
+										 data-start="1000"
+										 data-easing="easeOutExpo">Check out the humble till features.</div>
 
 									<div class="tp-caption randomrotate"
 										 data-x="850"
 										 data-y="218"
 										 data-speed="500"
-										 data-start="2500"
+										 data-start="1750"
 										 data-easing="easeOutExpo"><img src="img/slides/slide-concept_smaller_cloud.png" alt=""></div>
 
 									<div class="tp-caption randomrotate"
 										 data-x="890"
 										 data-y="288"
 										 data-speed="500"
-										 data-start="2500"
+										 data-start="1250"
 										 data-easing="easeOutExpo"><img src="img/slides/slide-concept_till.png" alt=""></div>	 
 
 									<!--<div class="tp-caption sfb"
@@ -72,7 +72,7 @@
 										 data-x="740"
 										 data-y="200"
 										 data-speed="1000"
-										 data-start="3250"
+										 data-start="1500"
 										 data-easing="easeOutExpo"><img src="img/slides/slide-concept_smallest_cloud.png" alt=""></div>
 
 									<div class="tp-caption sfb"
@@ -80,22 +80,22 @@
 										 data-x="750"
 										 data-y="30"
 										 data-speed="600"
-										 data-start="3450"
+										 data-start="2000"
 										 data-easing="easeOutExpo" style="position: absolute"><img src="img/slides/slide-concept_basic_cloud.png" alt=""></div>
 
-									<div class="tp-caption blackboard-text lfb " id="whiteTxt"
+									<div class="tp-caption lfb sft stb" id="whiteTxt"
 										 data-x="700"
 										 data-y="340"
 										 data-speed="500"
-										 data-start="3450"
-										 data-easing="easeOutExpo" style="font-size: 57px;">Think</div>
-
-									<div class="tp-caption blackboard-text lfb" id="whiteTxt"
+										 data-start="2100"
+										 data-easing="easeOutExpo" style="font-size: 47px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);">Think</div>
+ 
+									<div class="tp-caption  lfb sft stb" id="whiteTxt"
 										 data-x="725"
 										 data-y="400"
 										 data-speed="500"
-										 data-start="3650"
-										 data-easing="easeOutExpo" style="font-size: 67px" >cloud!</div> <!--
+										 data-start="2200"
+										 data-easing="easeOutExpo" style="font-size: 67px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);">cloud.</div> <!--
 
 									<div class="tp-caption blackboard-text lfb "
 										 data-x="580"
@@ -103,49 +103,43 @@
 										 data-speed="500"
 										 data-start="3850"
 										 data-easing="easeOutExpo" style="font-size: 32px;">The box :)</div>-->
-								</li><!--
+								</li>
 								<li data-transition="fade" data-slotamount="5" data-masterspeed="1000" >
 
-									<img src="img/slides/slide-bg.jpg" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+									<img src="img/slides/slide-bg_red.jpg" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
 
 										<div class="tp-caption fade"
-											 data-x="50"
-											 data-y="100"
-											 data-speed="1500"
-											 data-start="500"
-											 data-easing="easeOutExpo"><img src="img/slides/slide-concept.png" alt=""></div>
+											 data-x="-50"
+											 data-y="350"
+											 data-speed="500"
+											 data-start="250"
+											 data-easing="easeOutExpo"><img src="img/slides/redworld_logo.png" alt=""></div>
 
-										<div class="tp-caption blackboard-text fade "
-											 data-x="180"
-											 data-y="180"
-											 data-speed="1500"
-											 data-start="1000"
-											 data-easing="easeOutExpo" style="font-size: 30px;">easy to</div>
+										<div class="tp-caption bottom-label sft stb"
+											 data-x="-30"
+											 data-y="410"
+											 data-speed="500"
+											 data-start="750"
+											 data-easing="easeOutExpo">Supporting product orders.</div>
 
-										<div class="tp-caption blackboard-text fade "
-											 data-x="180"
-											 data-y="220"
-											 data-speed="1500"
-											 data-start="1200"
-											 data-easing="easeOutExpo" style="font-size: 40px;">customize!</div>
 
-										<div class="tp-caption main-label sft stb"
+										<!--<div class="tp-caption main-label sft stb"
 											 data-x="580"
 											 data-y="190"
 											 data-speed="300"
-											 data-start="1500"
+											 data-start="1000"
 											 data-easing="easeOutExpo">DESIGN IT!</div>
 
 										<div class="tp-caption bottom-label sft stb"
 											 data-x="580"
 											 data-y="250"
 											 data-speed="500"
-											 data-start="2000"
-											 data-easing="easeOutExpo">Create slides with brushes and fonts.</div>
+											 data-start="1250"
+											 data-easing="easeOutExpo">Create slides with brushes and fonts.</div>-->
 
 
 
-								</li>-->
+								</li>
 							</ul>
 						</div>
 					</div>
