@@ -88,14 +88,14 @@
 										 data-y="340"
 										 data-speed="500"
 										 data-start="2100"
-										 data-easing="easeOutExpo" style="font-size: 47px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);">Think</div>
+										 data-easing="easeOutExpo" style="font-size: 17px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);">Think</div>
  
 									<div class="tp-caption  lfb sft stb" id="whiteTxt"
 										 data-x="725"
-										 data-y="400"
+										 data-y="360"
 										 data-speed="500"
 										 data-start="2200"
-										 data-easing="easeOutExpo" style="font-size: 67px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);">cloud.</div> <!--
+										 data-easing="easeOutExpo" style="font-size: 27px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);">cloud.</div> <!--
 
 									<div class="tp-caption blackboard-text lfb "
 										 data-x="580"

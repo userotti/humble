@@ -44,8 +44,8 @@
 
 
 
-								<li class="active">
-									<a class="" href="#">
+								<li class="">
+									<a id="mynavButton" href="/humble/index.php">
 										Home
 										
 									</a>
@@ -58,8 +58,8 @@
 									</a>
 									
 								</li>
-								<li>
-									<a id="mynavButton" href="#">
+								<li class="">
+									<a id="mynavButton" href="/humble/about.php">
 										About
 										
 									</a>
@@ -68,14 +68,14 @@
 							
 								
 								<li>
-									<a id="mynavButton" href="#">
+									<a class="lightbox_signin" id="mynavButton" href="#">
 										Sign In
 										
 									</a>
 								
 								</li>
 								<li>
-									<a id="mynavButton" href="#">
+									<a class="lightbox_register" id="mynavButton" href="#">
 										Register
 										
 									</a>
