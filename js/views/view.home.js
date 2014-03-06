@@ -123,8 +123,8 @@ Version: 		2.0
 
 			var $this = this;
 
-			$(".cloud").animate( {"top": "+=20px"}, 3000, "linear", function() {
-				$(".cloud").animate( {"top": "-=20px"}, 3000, "linear", function() {
+			$(".cloud").animate( {"top": "+=50px"}, 1200, "swing", function() {
+				$(".cloud").animate( {"top": "-=50px"}, 1200, "swing", function() {
 					$this.moveCloud();
 				});
 			});
